@@ -1,0 +1,134 @@
+* {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  font-family: arial, sans-serif;
+}
+
+.tabTitle {
+  background-color: #202124;
+  height: 40px;
+  width: 100%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.imgTab {
+  background-color: #35363a;
+}
+
+.imgTab2 {
+  background-color: #202124;
+}
+
+.tabTitle .sekme {
+  float: left;
+  height: 40px;
+  margin-left: 10px;
+  width: 250px;
+  background-color: #35363a;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  color: white;
+  font-size: 13px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tabTitle .closing {
+  float: right;
+  background-color: #202124;
+}
+
+.tabTitle2 {
+  background-color: #35363a;
+  height: 35px;
+  width: 100%;
+}
+
+input[type=text] {
+  border-radius: 10px;
+}
+
+.tBox2 {
+  border: none;
+  border-radius: 30px;
+  width: 500px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: #202124;
+  border-radius: 10px;
+  color: white;
+  font-size: 12px;
+}
+
+.btn2 {
+  border-radius: 30px;
+  border: none;
+  color: white;
+  background-color: #3272e6;
+  height: 40px;
+  width: 100px;
+}
+
+.ustMenu {
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+  color: black;
+  font-size: 14px;
+  font-family: arial, sans-serif;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.mainClass {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.mainClass .mainTbox {
+  padding: 10px;
+  display: block;
+  text-align: center;
+  border: 1px solid #9c9697;
+  border-radius: 30px;
+  width: 600px;
+  height: 25px;
+  margin-bottom: 10px;
+  margin-left: 375px;
+}
+
+.btn3 {
+  border: none;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #f2f2f2;
+  color: slategrey;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  padding-bottom: 45px;
+}
+
+.footer p {
+  background-color: #f2f2f2;
+}
+/*# sourceMappingURL=main.css.map */
